@@ -1,6 +1,6 @@
 # Lass uns mal ein Web mit border und border-radius stylen
 
-**Wenn nicht spezifiziert, sind Eigenschaften wie Farbe, Breite usw deiner Auswahl**
+*Wenn nicht spezifiziert, sind Eigenschaften wie Farbe, Breite usw deiner Auswahl*
 
 ## Aufgabe 1
 
@@ -22,7 +22,7 @@ jeder paragraph1 und paragraph2 sollten einen border-bottom haben.
 
 #border__crimson sollte einen border : crimson; haben 
 
-**crimson ist eine Farbe, wie orange oder fuchsia**
+*crimson ist eine Farbe, wie orange oder fuchsia*
 
 ## Aufgabe 6
 
