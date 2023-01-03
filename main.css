@@ -1,0 +1,65 @@
+#section-1
+{
+    border-top: solid;
+    border-bottom: solid;
+    border-color: blue;
+    border-width: 20px;
+}
+
+#section-2
+{
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+    border-color: lawngreen;
+    border-width: 15px;
+}
+
+#section-3
+{
+    border-top-style: double;
+    border-bottom-style: double;
+    border-color: brown;
+    border-width: 10px;
+}
+
+#paragraph1
+{
+    border-bottom-style: groove;
+    border-color: blueviolet;
+    border-width: 8px;
+}
+
+#paragraph2
+{
+    border-bottom-style: ridge;
+    border-color: yellow;
+    border-width: 8px;
+}
+
+#border__dotted{
+    border-style: dotted;
+    border-color: chocolate;
+}
+
+#border__inset{
+    border-style: inset;
+    border-color: cornflowerblue;
+}
+
+#border__crimson{
+    border-bottom: 2px solid crimson;
+    
+}
+
+img{
+    border-radius: 50%;
+}
+p{
+    border-bottom: 5px solid black; 
+
+}
+
+button{
+    border-radius: 5px;
+    background-color: chocolate;
+}
